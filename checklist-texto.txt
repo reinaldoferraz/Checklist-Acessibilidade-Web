@@ -1,21 +1,21 @@
 Verificação de acessibilidade do site [[nome do site]]
 
-1) A página passou pela validação de markup do W3C Validator?
+1. A página passou pela validação de markup do [W3C Validator](https://validator.w3.org/)?
 
-2) A página passou por validadores automáticos de acessibilidade (WCAG 2, níveis A e AA), como [[nomes das ferramentas]]?
+2. A página passou por validadores automáticos de acessibilidade (WCAG 2, níveis A e AA), como [[nomes das ferramentas]]?
 
-3) O idioma da página foi declarado no elemento <html>? Mudanças de idioma foram declaradas na página?
+3. O idioma da página foi declarado no elemento <html> e mudanças de idioma foram declaradas na página?
 
-4) Existe um link para saltar para o conteúdo do site? E outras formas de salto, como a estruturação de cabeçalhos da página e uso de landmarks de ARIA?
+4. Existe um link para saltar para o conteúdo do site? E outras formas de salto, como a estruturação de cabeçalhos da página e uso de landmarks de ARIA?
 
-5) Todos os links são acessíveis sem o uso do mouse? A navegação via teclado tem alguma barreira? Os links tem realce visual quando recebem o foco via teclado?
+5. Todos os links são acessíveis sem o uso do mouse? A navegação via teclado tem alguma barreira? Os links tem realce visual quando recebem o foco via teclado?
 
-6) As descrições de imagens são adequadas? Existe texto redundante ou repetido?
+6. As descrições de imagens são adequadas? Existe texto redundante ou repetido?
 
-7) Os formulários possuem rótulos e IDs relacionados? Estão envolvidos por um elemento fieldset, quando há mais de um bloco de informação a ser preenchida?
+7. Os formulários possuem rótulos e IDs relacionados? Estão envolvidos por um elemento fieldset quando há mais de um bloco de informação a ser preenchida?
 
-8) Os textos tem contraste suficiente com as cores de fundo [[nome da ferramenta]]?
+8. Os textos tem contraste suficiente com as cores de fundo [[nome da ferramenta]]?
 
-9) O logo / nome do site tem link para a página principal nas páginas internas do site?
+9. O logo / nome do site tem link para a página principal nas páginas internas do site?
 
-10) Vídeos possuem legendas ou transcrição em texto?
+10. Vídeos possuem legendas ou transcrição em texto?
